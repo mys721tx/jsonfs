@@ -62,9 +62,9 @@ dependencies = [
 
 [[package]]
 name = "fuse_mt"
-version = "0.5.0"
+version = "0.5.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "e63cd7846849c0edf7c8655b3e952848117b2670fa8054ea2fc123040577414b"
+checksum = "594691fb765cf23933301a6b5b7962332cb0e29fdb2c15a92fc92039a4817afa"
 dependencies = [
  "fuse",
  "libc",
